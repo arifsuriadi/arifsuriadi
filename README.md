@@ -1,4 +1,4 @@
-# Hay Everyone I'm Arif Suriadi 🤞
+# Hi Everyone I'm Arif Suriadi 👋
 
 ![arifsuriadi](img/github-header-banner.png)
 
