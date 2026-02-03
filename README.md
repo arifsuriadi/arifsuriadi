@@ -23,7 +23,6 @@
 [![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,figma)](https://skillicons.dev)
 
 #### 📈 My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifsuriadi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
