@@ -51,7 +51,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/arifsuriadi/arifsuriadi/output/snake.svg" alt="Snake animation" />
-
-###
